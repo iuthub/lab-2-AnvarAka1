@@ -4,14 +4,14 @@
 	margin: 0 10%;
 }
 #titles{
-/*	text-align: right;*/
+	text-align: right;
 	border: red 5px solid;
 }
 #titles div{
 	border: orange 5px solid;
 }
 .section{
-/*	overflow: auto;*/
+	overflow: auto;
 	border: blue 5px solid;
 	background-color: #E8FBFB;
 	padding: 5px;
@@ -20,6 +20,6 @@
 .section span{
 	border: purple 5px solid;
 }
-/*.section p img{
+.section p img{
 	float:right;
-}*/
+}
