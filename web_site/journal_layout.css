@@ -37,4 +37,6 @@
 	background-color: #99E0E0;
 	border: solid 5px #009097;
 }
-
+.hovered:hover{
+	border-bottom: yellow 5px solid;
+}
