@@ -2,6 +2,7 @@
 	border: white 10px solid;
 	background-color: #fff;
 	margin: 0 10%;
+	overflow: auto;
 }
 #titles{
 	text-align: right;
@@ -23,3 +24,17 @@
 .section p img{
 	float:right;
 }
+.sections{
+	float: right;
+	width: 70%;
+}
+.column{
+	margin-top: 10px;
+	font-size: 18px;
+	padding: 5px;
+	float: left;
+	width: 27%;
+	background-color: #99E0E0;
+	border: solid 5px #009097;
+}
+
