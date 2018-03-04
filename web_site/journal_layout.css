@@ -1,0 +1,25 @@
+.main-page{
+	border: green 5px solid;
+	background-color: #fff;
+	margin: 0 10%;
+}
+#titles{
+/*	text-align: right;*/
+	border: red 5px solid;
+}
+#titles div{
+	border: orange 5px solid;
+}
+.section{
+/*	overflow: auto;*/
+	border: blue 5px solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
+.section span{
+	border: purple 5px solid;
+}
+/*.section p img{
+	float:right;
+}*/
